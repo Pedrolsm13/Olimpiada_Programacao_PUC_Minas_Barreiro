@@ -1,0 +1,14 @@
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\bin\Debug\net7.0\Gasto de Combustível.exe
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\bin\Debug\net7.0\Gasto de Combustível.deps.json
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\bin\Debug\net7.0\Gasto de Combustível.runtimeconfig.json
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\bin\Debug\net7.0\Gasto de Combustível.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\bin\Debug\net7.0\Gasto de Combustível.pdb
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\obj\Debug\net7.0\Gasto de Combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\obj\Debug\net7.0\Gasto de Combustível.AssemblyInfoInputs.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\obj\Debug\net7.0\Gasto de Combustível.AssemblyInfo.cs
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\obj\Debug\net7.0\Gasto de Combustível.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\obj\Debug\net7.0\Gasto de Combustível.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\obj\Debug\net7.0\refint\Gasto de Combustível.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\obj\Debug\net7.0\Gasto de Combustível.pdb
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\obj\Debug\net7.0\Gasto de Combustível.genruntimeconfig.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Gasto de Combustível\obj\Debug\net7.0\ref\Gasto de Combustível.dll

@@ -1,0 +1,14 @@
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\bin\Debug\net7.0\Conversão de Tempo.exe
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\bin\Debug\net7.0\Conversão de Tempo.deps.json
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\bin\Debug\net7.0\Conversão de Tempo.runtimeconfig.json
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\bin\Debug\net7.0\Conversão de Tempo.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\bin\Debug\net7.0\Conversão de Tempo.pdb
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\obj\Debug\net7.0\Conversão de Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\obj\Debug\net7.0\Conversão de Tempo.AssemblyInfoInputs.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\obj\Debug\net7.0\Conversão de Tempo.AssemblyInfo.cs
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\obj\Debug\net7.0\Conversão de Tempo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\obj\Debug\net7.0\Conversão de Tempo.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\obj\Debug\net7.0\refint\Conversão de Tempo.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\obj\Debug\net7.0\Conversão de Tempo.pdb
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\obj\Debug\net7.0\Conversão de Tempo.genruntimeconfig.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Conversão de Tempo\obj\Debug\net7.0\ref\Conversão de Tempo.dll

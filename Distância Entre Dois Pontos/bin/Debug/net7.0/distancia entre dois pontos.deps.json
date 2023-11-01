@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "distancia entre dois pontos/1.0.0": {
+        "runtime": {
+          "distancia entre dois pontos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "distancia entre dois pontos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

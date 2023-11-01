@@ -1,0 +1,14 @@
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\bin\Debug\net7.0\Alarme Despertador.exe
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\bin\Debug\net7.0\Alarme Despertador.deps.json
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\bin\Debug\net7.0\Alarme Despertador.runtimeconfig.json
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\bin\Debug\net7.0\Alarme Despertador.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\bin\Debug\net7.0\Alarme Despertador.pdb
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\obj\Debug\net7.0\Alarme Despertador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\obj\Debug\net7.0\Alarme Despertador.AssemblyInfoInputs.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\obj\Debug\net7.0\Alarme Despertador.AssemblyInfo.cs
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\obj\Debug\net7.0\Alarme Despertador.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\obj\Debug\net7.0\Alarme Despertador.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\obj\Debug\net7.0\refint\Alarme Despertador.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\obj\Debug\net7.0\Alarme Despertador.pdb
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\obj\Debug\net7.0\Alarme Despertador.genruntimeconfig.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Alarme Despertador\obj\Debug\net7.0\ref\Alarme Despertador.dll

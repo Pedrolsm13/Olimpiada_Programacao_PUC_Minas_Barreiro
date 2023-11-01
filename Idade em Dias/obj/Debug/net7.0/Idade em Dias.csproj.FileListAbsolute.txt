@@ -1,0 +1,14 @@
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\bin\Debug\net7.0\Idade em Dias.exe
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\bin\Debug\net7.0\Idade em Dias.deps.json
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\bin\Debug\net7.0\Idade em Dias.runtimeconfig.json
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\bin\Debug\net7.0\Idade em Dias.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\bin\Debug\net7.0\Idade em Dias.pdb
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\obj\Debug\net7.0\Idade em Dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\obj\Debug\net7.0\Idade em Dias.AssemblyInfoInputs.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\obj\Debug\net7.0\Idade em Dias.AssemblyInfo.cs
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\obj\Debug\net7.0\Idade em Dias.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\obj\Debug\net7.0\Idade em Dias.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\obj\Debug\net7.0\refint\Idade em Dias.dll
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\obj\Debug\net7.0\Idade em Dias.pdb
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\obj\Debug\net7.0\Idade em Dias.genruntimeconfig.cache
+C:\Users\pedro\Workspace\Olimpiada_Programacao_PUC_Minas_Barreiro\Idade em Dias\obj\Debug\net7.0\ref\Idade em Dias.dll
